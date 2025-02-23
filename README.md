@@ -62,3 +62,16 @@ Projeto_Diques/
 │   └── real2/
 │       ├── figs/               # Figuras de resultados de inversão do perfil 2 de dados reais          
 │       └── (arquivos de Python para inverter o perfil 2 de dados reais)
+
+## Especificações Técnicas Utilizadas
+
+Códigos originais e testes desenvolvidos em um notebook com as seguintes especificações:
+
+- **Processador:** Intel Core i5 de 12ª geração (3,3 GHz)
+- **Memória:** 16 GB de RAM DDR4 (3200 MHz)
+- **Sistema Operacional:** Ubuntu 24.04
+
+Os seguintes softwares e linguagens de programação foram utilizados:
+
+### Ambiente Python
+- Python 3.7.16
