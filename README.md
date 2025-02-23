@@ -8,7 +8,7 @@ Repositório contendo scripts, para modelagem e inversão magnética 2D de dique
 **Instituição de pesquisa responsável:** Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) - USP  
 **Supervisor:** Carlos Alberto Mendonça
 
-**Instituição de pesquisa parceira:** Queen's University Belfast (QUB)
+**Instituição de pesquisa parceira:** Queen's University Belfast (QUB)  
 **Projeto de pesquisa associado:** GEMINI  
 
 **Pesquisadora Iniciação Científica:** Olga Mayumi Moreira Hanazumi
