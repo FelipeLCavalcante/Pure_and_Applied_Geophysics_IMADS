@@ -7,6 +7,7 @@ Repositório contendo scripts, para modelagem e inversão de modelos 2D de dique
 
 **Instituição de pesquisa:** Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) - USP  
 **Supervisor:** Carlos Alberto Mendonça  
+**Instituição de pesquisa parceira:** Queen's University Belfast (QUB)
 
 ## Índice
 
@@ -19,7 +20,7 @@ Repositório contendo scripts, para modelagem e inversão de modelos 2D de dique
 
 ## Objetivos
 
-- Realizar modelagem sísmica para ambientes de derrames basálticos.
-- Analisar a viabilidade do uso de sísmica 4D como ferramenta de monitoramento dos processos de Captura, Utilização e Armazenagem de Carbono (CCUS).
-- Modelar camadas de basaltos com escala e propriedades similares à Formação Serra Geral da Bacia do Paraná.
-- Simular a injeção de $CO_{2}$ em camadas basálticas de porosidade aumentada por meio da mineralização de Caucita ($CaCO_{3}$).
+- Realizar modelagem e inversão magnética 2D de diques dinos.
+- Analisar a viabilidade do uso das ferramentas nos basaltos da província de Antrim na Irlanda do Norte.
+- Identificar diques com potencial contribuição associada à energia geotérmica.
+- Alvos iniciais seriam diques intrudindo o aquífero Sherwood.
