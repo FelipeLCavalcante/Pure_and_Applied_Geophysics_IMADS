@@ -77,3 +77,11 @@ Os seguintes softwares e linguagens de programação foram utilizados:
 
 ### Ambiente Python
 - Python 3.7.16
+
+## Instruções de Uso
+
+O correto funcionamento dos programas dependem da instalação das bibliotecas e pacotes necessários. 
+Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 3 etapas: 
+  1. Criar um ambiente virtual com Conda.
+  2. Baixar o arquivo XXX.txt.
+  3. Executar o comando XXX---XXX
