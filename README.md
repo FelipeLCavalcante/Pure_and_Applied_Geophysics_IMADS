@@ -9,7 +9,7 @@ Repositório contendo scripts, para modelagem e inversão magnética 2D de dique
 **Supervisor:** Carlos Alberto Mendonça
 
 **Instituição de pesquisa parceira:** Queen's University Belfast (QUB)  
-**Projeto de pesquisa associado:** GEMINI
+**Projeto de pesquisa associado:** GEMINI  
 **Supervisor:** Ulrich S. Ofterdinger  
 
 **Pesquisadora Iniciação Científica:** Olga Mayumi Moreira Hanazumi
