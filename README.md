@@ -1,4 +1,4 @@
-# Projeto Diques Oi
+# Projeto Diques
 
 Repositório contendo scripts, para modelagem e inversão de modelos 2D de diques finos.
 
