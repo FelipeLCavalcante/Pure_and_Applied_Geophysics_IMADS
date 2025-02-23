@@ -82,7 +82,10 @@ Os seguintes softwares e linguagens de programação foram utilizados:
 ## Instruções de Uso
 
 O correto funcionamento dos programas dependem da instalação das bibliotecas e pacotes necessários. 
-Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 3 etapas: 
-  1. Criar um ambiente virtual com Conda.
-  2. Baixar o arquivo config_env.txt.
-  3. Executar o comando XXX---XXX
+Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 4 etapas: 
+  1. Criar um ambiente virtual com Conda utilizando o comando: ```conda create --name nome_do_ambiente python=3.7.16```
+  2. Ativar o ambiente virtual com o comando: ```conda activate nome_do_ambiente```
+  3. Baixar o arquivo config_env.txt.
+  4. Executar o comando XXX---XXX
+
+Com o ambiente virtual configurado
