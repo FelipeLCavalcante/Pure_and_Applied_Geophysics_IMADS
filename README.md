@@ -88,4 +88,4 @@ Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 4 e
   3. Baixar o arquivo config_env.txt.
   4. Executar o comando XXX---XXX
 
-Com o ambiente virtual configurado
+Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py".
