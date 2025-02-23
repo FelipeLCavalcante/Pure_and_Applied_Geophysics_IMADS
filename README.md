@@ -1,9 +1,10 @@
 # Projeto Diques
 
 Repositório contendo scripts, para modelagem e inversão magnética 2D de diques finos.
+**Tipo de projeto:** Cooperação internacional  
 
-**Autor:** Felipe Lisbona Cavalcante  
-**Tipo de projeto:** Coorientação  
+**Autor:** Felipe Lisbona Cavalcante    
+**Atribuição:** Coorientação  
 
 **Instituição de pesquisa responsável:** Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) - USP  
 **Supervisor:** Carlos Alberto Mendonça
