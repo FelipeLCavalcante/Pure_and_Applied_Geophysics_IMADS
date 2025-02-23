@@ -42,6 +42,7 @@ A organização deste repositório segue a estrutura abaixo:
 ```plaintext
 Projeto_Diques/
 ├── README.md                    # Este arquivo
+├── config_env.txt               # Arquivo de configuração do ambiente virtual
 ├── fwd/
 │   ├── mod1/
 │   │   ├── figs/               # Figuras de modelagem do problema direto 1
@@ -83,5 +84,5 @@ Os seguintes softwares e linguagens de programação foram utilizados:
 O correto funcionamento dos programas dependem da instalação das bibliotecas e pacotes necessários. 
 Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 3 etapas: 
   1. Criar um ambiente virtual com Conda.
-  2. Baixar o arquivo XXX.txt.
+  2. Baixar o arquivo config_env.txt.
   3. Executar o comando XXX---XXX
