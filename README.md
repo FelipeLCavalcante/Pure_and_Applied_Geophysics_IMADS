@@ -26,7 +26,7 @@ Repositório contendo scripts, para modelagem e inversão magnética 2D de dique
 
 ## Objetivos
 
-- Realizar modelagem e inversão magnética 2D de diques dinos.
+- Realizar modelagem e inversão magnética 2D de diques finos.
 - Analisar a viabilidade do uso das ferramentas nos basaltos da província de Antrim na Irlanda do Norte.
 - Identificar diques com potencial contribuição associada à energia geotérmica.
 - Alvos iniciais são diques intrudindo o aquífero Sherwood.
@@ -92,4 +92,4 @@ Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 4 e
   3. Baixar o arquivo config_env.txt.
   4. Executar o comando XXX---XXX
 
-Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py".
+Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py". Baixe os arquivos em duas pastas separadas, uma para o problema direto e outra para o problema inverso. Dentro de cada uma dessas pastas crie as pasta "Input" e "Output" antes de executar os scripts pela primeira vez.
