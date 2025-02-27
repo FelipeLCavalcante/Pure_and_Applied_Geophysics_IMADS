@@ -1,0 +1,2 @@
+# prog_param: 0.index 1.index2 2.first_solution 3.Fh(m) 4.I(°) 5.D(°) 6.F(nT) 7.Kmid 8.Tk_max(m) 9.strk(°) 10.aj 11.aj2 12.type
+fwd_r_M1_cut lims_M1 n 100 -30 0 25986 3.43E-2 100 135 10 50 parametros_M1.dat
