@@ -46,25 +46,27 @@ Projeto_Diques/
 ├── README.md                    # Este arquivo
 ├── config_env.txt               # Arquivo de configuração do ambiente virtual
 ├── fwd/
-│   ├── mod1/
-│   │   ├── figs/               # Figuras de modelagem do problema direto 1
-│   │   └── (arquivos de Python para executar o modelo 1)
-│   ├── mod2/
-│   │   ├── figs/               # Figuras de modelagem do problema direto 2
-│   │   └── (arquivos de Python para executar o modelo 2)
+│   ├── Input/
+│   │   └── (arquivos de entrada para executar o problema direto)
+│   ├── Output/
+│   │   └── (arquivos de saída do problema direto)
+│   ├── 1_PyDyke_Extent_n_Disturb.py (arquivo para execução do problema direto)
+│   ├── 2_PyDyke_cut_data.py (arquivo para recortar os dados)
+│   ├── func_*.py (arquivos contendo funções para execução do problema direto)
 ├── inv/
-│   └── mod1/
-│       ├── figs/               # Figuras de resultados de inversão do modelo 1          
-│       └── (arquivos de Python para inverter dados do modelo 1)
-│   └── mod2/
-│       ├── figs/               # Figuras de resultados de inversão do modelo 2          
-│       └── (arquivos de Python para inverter dados do modelo 2)
-│   └── real1/
-│       ├── figs/               # Figuras de resultados de inversão do perfil 1 de dados reais          
-│       └── (arquivos de Python para inverter o perfil 1 de dados reais)
-│   └── real2/
-│       ├── figs/               # Figuras de resultados de inversão do perfil 2 de dados reais          
-│       └── (arquivos de Python para inverter o perfil 2 de dados reais)
+│   ├── Input/
+│   │   └── (arquivos de entrada para executar o problema inverso)
+│   ├── Output/
+│   │   └── (arquivos de saída do problema inverso)
+│   ├── 1_PyDyke_simple_filt.py (arquivo para filtrar dados)
+│   ├── 2_PyDyke_d2T.py (arquivo para calcular a derivada segunda dos dados)
+│   ├── 3_PyDyke_lims.py (arquivo para definir limites do modelo)
+│   ├── 4_PyDyke_calc_initial.py (arquivo para calcular a solução inicial do problema)
+│   ├── 5_PyDyke_inv.py (arquivo para executar o problema inverso)
+│   ├── 6_PyDyke_plot.py (arquivo para plotar os resultados do problema inverso)
+│   ├── 7_PyDyke_STD.py (arquivo para plotar calcular o desvio padrão das soluções)
+│   ├── 8_PyDyke_join_exit_std.py (arquivo para compilar soluções e probabilidades em tabela)
+│   ├── func_*.py (arquivos contendo funções para execução do problema inverso)
 ```
 
 
