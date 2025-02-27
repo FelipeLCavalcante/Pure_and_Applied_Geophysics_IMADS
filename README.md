@@ -87,9 +87,8 @@ Os seguintes softwares e linguagens de programação foram utilizados:
 
 O correto funcionamento dos programas dependem da instalação das bibliotecas e pacotes necessários. 
 Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 4 etapas: 
-  1. Criar um ambiente virtual com Conda utilizando o comando: ```conda create --name nome_do_ambiente python=3.7.16```
-  2. Ativar o ambiente virtual com o comando: ```conda activate nome_do_ambiente```
-  3. Baixar o arquivo config_env.txt.
-  4. Executar o comando XXX---XXX
+  1. Baixar o arquivo PyDyke_env.yml.
+  2. Criar um ambiente virtual com Conda, substituindo "novo_env" pelo nome do ambiente virtual a ser criado, utilizando o comando: ```conda env create --name novo_env -f PyDyke.yml```
+  3. Ativar o ambiente virtual, substituindo "nome_do_ambiente" pelo nome do ambiente virtual criado, com o comando: ```conda activate nome_do_ambiente```
 
 Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py". Baixe os arquivos em duas pastas separadas, uma para o problema direto e outra para o problema inverso. Dentro de cada uma dessas pastas crie as pasta "Input" e "Output" antes de executar os scripts pela primeira vez.
