@@ -44,8 +44,8 @@ A organização deste repositório segue a estrutura abaixo:
 ```plaintext
 Projeto_Diques/
 ├── README.md                    # Este arquivo
-├── config_env.txt               # Arquivo de configuração do ambiente virtual
-├── fwd/
+├── PyDyke_env.yml               # Arquivo de configuração do ambiente virtual
+├── FWD/ (pasta do problema direto)
 │   ├── Input/
 │   │   └── (arquivos de entrada para executar o problema direto)
 │   ├── Output/
@@ -53,7 +53,7 @@ Projeto_Diques/
 │   ├── 1_PyDyke_Extent_n_Disturb.py (arquivo para execução do problema direto)
 │   ├── 2_PyDyke_cut_data.py (arquivo para recortar os dados)
 │   ├── func_*.py (arquivos contendo funções para execução do problema direto)
-├── inv/
+├── INV/ (pasta do problema inverso)
 │   ├── Input/
 │   │   └── (arquivos de entrada para executar o problema inverso)
 │   ├── Output/
