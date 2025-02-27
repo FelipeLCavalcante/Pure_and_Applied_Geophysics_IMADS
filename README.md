@@ -1,6 +1,6 @@
 # Projeto Diques
 
-Repositório contendo scripts, para modelagem e inversão magnética 2D de diques finos.
+Repositório contendo scripts, para modelagem e inversão magnética 2D de diques finos.  
 **Tipo de projeto:** Cooperação internacional  
 
 **Autor:** Felipe Lisbona Cavalcante    
