@@ -8,7 +8,8 @@ felipe.cavalcante@alumni.usp.br
 <p align="right"><sup>2</sup> Department of Geophysics, University of São Paulo, Rua do Matão, 1226, São Paulo, SP, Brazil</p>  
 carlos.mendonca@iag.usp.br  
 
-<p align="right"><sup>3</sup> School of Natural and Built Environment, Queen’s Univesity Belfast, David Keir Building, Stranmillis Road, Belfast, United Kingdom</p>  
+<p align="right"><sup>3</sup> School of Natural and Built Environment, Queen’s Univesity Belfast,    
+  David Keir Building, Stranmillis Road, Belfast, United Kingdom</p>  
 u.ofterdinger@qub.ac.uk  
 
 <p align="right"><sup>4</sup> British Geological Survey, Dundonald House, Upper Newtownards Road, Belfast, United Kingdom</p>  
