@@ -3,7 +3,7 @@
 Repositório contendo scripts, para modelagem e inversão magnética 2D de diques finos.  
 **Tipo de projeto:** Cooperação internacional  
 
-**Autores:** Felipe L. Cavalcante$_{1}$, Carlos A. Mendonça, Ulrich S. Ofterdinger, Mark Cooper       
+**Autores:** Felipe L. Cavalcante_{1}, Carlos A. Mendonça, Ulrich S. Ofterdinger, Mark Cooper       
 
 **Instituição de pesquisa responsável:** Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) - USP  
 **Supervisor:** Carlos Alberto Mendonça
