@@ -17,7 +17,7 @@ mrco@bgs.ac.uk</p>
 Correspondence: felipe.cavalcante@alumni.usp.br  
 
 Repositório contendo scripts, para modelagem e inversão magnética 2D de diques finos.  
-**Tipo de projeto:** Cooperação internacional
+**Tipo de projeto:** Cooperação internacional 
 
 ## Índice
 
