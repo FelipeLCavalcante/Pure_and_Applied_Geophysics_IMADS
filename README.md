@@ -9,7 +9,8 @@
 
 Correspondence: felipe.cavalcante@alumni.usp.br  
 
-<p align="right">**Abstract:** Magnetic anomaly-derived lineaments, indicative of major dike swarms at
+##Abstract
+<p align="right">Magnetic anomaly-derived lineaments, indicative of major dike swarms at
 shallow crustal levels, are common features associated with igneous provinces because of
 the contrasting magnetization of diabase and dolerites with respect to crystalline and
 sedimentary country rocks. Aeromagnetic datasets are useful to track the extension of
