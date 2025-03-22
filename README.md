@@ -17,19 +17,11 @@ Repositório contendo scripts, para modelagem e inversão magnética 2D de dique
 
 ## Índice
 
-- [Objetivos](#objetivos)
 - [Conteúdo do Repositório](#conteúdo-do-repositório)
 - [Estrutura de Pastas](#estrutura-de-pastas)
 - [Especificações Técnicas Utilizadas](#especificações-técnicas-utilizadas)
 - [Instruções de Uso](#instruções-de-uso)
 - [Licença](#licença)
-
-## Objetivos
-
-- Realizar modelagem e inversão magnética 2D de diques finos.
-- Analisar a viabilidade do uso das ferramentas nos basaltos da província de Antrim na Irlanda do Norte.
-- Identificar diques com potencial contribuição associada à energia geotérmica.
-- Alvos iniciais são diques intrudindo o aquífero Sherwood.
 
 ## Conteúdo do Repositório
 
@@ -42,7 +34,7 @@ Este repositório contém os arquivos necessários para a reprodução dos resul
 A organização deste repositório segue a estrutura abaixo:
 
 ```plaintext
-Projeto_Diques/
+Minerals_IMADS/
 ├── README.md                    # Este arquivo
 ├── PyDyke_env.yml               # Arquivo de configuração do ambiente virtual
 ├── FWD/ (pasta do problema direto)
