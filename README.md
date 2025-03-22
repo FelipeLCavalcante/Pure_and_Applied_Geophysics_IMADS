@@ -9,7 +9,7 @@
 
 Correspondence: felipe.cavalcante@alumni.usp.br  
 
-##Abstract
+## Abstract
 <p align="right">Magnetic anomaly-derived lineaments, indicative of major dike swarms at
 shallow crustal levels, are common features associated with igneous provinces because of
 the contrasting magnetization of diabase and dolerites with respect to crystalline and
