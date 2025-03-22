@@ -1,10 +1,9 @@
-# Projeto Diques
+# Interpreting magnetic anomalies in dike swarms: Deterministic and probabilistic approaches
 
 Repositório contendo scripts, para modelagem e inversão magnética 2D de diques finos.  
 **Tipo de projeto:** Cooperação internacional  
 
-**Autor:** Felipe Lisbona Cavalcante    
-**Atribuição:** Coorientação  
+**Autores:** Felipe L. Cavalcante$_{1}$, Carlos A. Mendonça, Ulrich S. Ofterdinger, Mark Cooper       
 
 **Instituição de pesquisa responsável:** Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) - USP  
 **Supervisor:** Carlos Alberto Mendonça
