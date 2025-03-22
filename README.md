@@ -5,16 +5,9 @@
        
        
 <sup>1</sup> Center for Energy and Petroleum Studies, University of Campinas, Cora Coralina Street, 350, Campinas, SP, Brazil  
-<p align="right">felipe.cavalcante@alumni.usp.br</p>
-  
 <sup>2</sup> Department of Geophysics, University of São Paulo, Rua do Matão, 1226, São Paulo, SP, Brazil  
-<p align="right">carlos.mendonca@iag.usp.br</p>
-
 <sup>3</sup> School of Natural and Built Environment, Queen’s Univesity Belfast, David Keir Building, Stranmillis Road, Belfast, United Kingdom   
-<p align="right">u.ofterdinger@qub.ac.uk</p>  
-
 <sup>4</sup> British Geological Survey, Dundonald House, Upper Newtownards Road, Belfast, United Kingdom  
-<p align="right">mrco@bgs.ac.uk</p>  
 
 Correspondence: felipe.cavalcante@alumni.usp.br  
 
