@@ -2,14 +2,14 @@
 
 **Autores:** Felipe L. Cavalcante<sup>1</sup>, Carlos A. Mendonça<sup>2</sup>, Ulrich S. Ofterdinger<sup>3</sup>, Mark Cooper<sup>4</sup>       
 
-<sup>1</sup> Center for Energy and Petroleum Studies, University of Campinas, Cora Coralina Street, 350, Campinas, SP, Brazil  
+<p align="right"><sup>1</sup> Center for Energy and Petroleum Studies, University of Campinas, Cora Coralina Street, 350, Campinas, SP, Brazil  
 felipe.cavalcante@alumni.usp.br  
 <sup>2</sup> Department of Geophysics, University of São Paulo, Rua do Matão, 1226, São Paulo, SP, Brazil  
 carlos.mendonca@iag.usp.br  
 <sup>3</sup> School of Natural and Built Environment, Queen’s Univesity Belfast, David Keir Building, Stranmillis Road, Belfast, United Kingdom;  
 u.ofterdinger@qub.ac.uk  
 <sup>4</sup> British Geological Survey, Dundonald House, Upper Newtownards Road, Belfast, United Kingdom;  
-mrco@bgs.ac.uk  
+mrco@bgs.ac.uk</p>  
 
 Correspondence: felipe.cavalcante@alumni.usp.br  
 
