@@ -84,3 +84,8 @@ This can be easily resolved in Linux-based systems through 4 steps:
    3. Activate the virtual environment, replacing "nome_do_ambiente" with the name of the created environment, with the command: ```conda activate nome_do_ambiente```
 
 Once the virtual environment is configured, the Python codes can be executed with commands like ```python 1_exemplo.py```, or by using your favorite IDE's buttons. The execution order of the codes follows the ascending Arabic numeral order of the ".py" file prefixes. Download the files into two separate folders, one for the forward problem and another for the inverse problem. Create the "Input" and "Output" folders within each folder before running the scripts for the first time.
+
+## License
+All source code is made available under an MIT license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors. See 'LICENSE.md' for the full license text.
+
+The manuscript text is not open source. The authors reserve the rights to the article content, which is currently submitted for publication in the Minerals.
