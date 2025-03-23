@@ -77,10 +77,10 @@ The following software and programming languages were used:
 
 ## Instructions for Use
 
-The proper functioning of the programs depends on the installation of the required libraries and packages.  
+The proper functioning of the programs depends on installing the required libraries and packages.  
 This can be easily resolved in Linux-based systems through 4 steps: 
   1. Download the file `PyDyke_env.yml`.
   2. Create a virtual environment with Conda, replacing "novo_env" with the desired environment name, using the command: ```conda env create --name novo_env -f PyDyke.yml```
-   3. Activate the virtual environment, replacing "nome_do_ambiente" with the name of the created environment, with the command: ```bash conda activate nome_do_ambiente```
+   3. Activate the virtual environment, replacing "nome_do_ambiente" with the name of the created environment, with the command: ```conda activate nome_do_ambiente```
 
-Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py". Baixe os arquivos em duas pastas separadas, uma para o problema direto e outra para o problema inverso. Dentro de cada uma dessas pastas crie as pasta "Input" e "Output" antes de executar os scripts pela primeira vez.
+Once the virtual environment is configured, the Python codes can be executed with commands like ```python 1_exemplo.py```, or by using your favorite IDE's buttons. The execution order of the codes follows the ascending Arabic numeral order of the ".py" file prefixes. Download the files into two separate folders, one for the forward problem and another for the inverse problem. Create the "Input" and "Output" folders within each folder before running the scripts for the first time.
