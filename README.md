@@ -36,6 +36,7 @@ The organization of this repository follows the structure below:
 ```plaintext
 Minerals_IMADS/
 ├── README.md                    # This file
+├── LICENSE.md                   # License file
 ├── PyDyke_env.yml               # Virtual environment configuration file
 ├── FWD/ (folder of the forward problem)
 │   ├── Input/
