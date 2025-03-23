@@ -29,58 +29,58 @@ This repository contains the files necessary to reproduce the results obtained i
 
 - **Scripts:** used for forward modeling, processing, inversion, and data analysis.
 
-## Estrutura de Pastas
+## Folder Structure
 
-A organização deste repositório segue a estrutura abaixo:
+The organization of this repository follows the structure below:
 
 ```plaintext
 Minerals_IMADS/
-├── README.md                    # Este arquivo
-├── PyDyke_env.yml               # Arquivo de configuração do ambiente virtual
-├── FWD/ (pasta do problema direto)
+├── README.md                    # This file
+├── PyDyke_env.yml               # Virtual environment configuration file
+├── FWD/ (folder of the forward problem)
 │   ├── Input/
-│   │   └── (arquivos de entrada para executar o problema direto)
+│   │   └── (input files for running the forward problem)
 │   ├── Output/
-│   │   └── (arquivos de saída do problema direto)
-│   ├── 1_PyDyke_Extent_n_Disturb.py (arquivo para execução do problema direto)
-│   ├── 2_PyDyke_cut_data.py (arquivo para recortar os dados)
-│   ├── func_*.py (arquivos contendo funções para execução do problema direto)
-├── INV/ (pasta do problema inverso)
+│   │   └── (output files from the forward problem)
+│   ├── 1_PyDyke_Extent_n_Disturb.py (file for executing the forward problem)
+│   ├── 2_PyDyke_cut_data.py (file for cropping the data)
+│   ├── func_*.py (files containing functions for executing the forward problem)
+├── INV/ (folder of the inverse problem)
 │   ├── Input/
-│   │   └── (arquivos de entrada para executar o problema inverso)
+│   │   └── (input files for running the inverse problem)
 │   ├── Output/
-│   │   └── (arquivos de saída do problema inverso)
-│   ├── 1_PyDyke_simple_filt.py (arquivo para filtrar dados)
-│   ├── 2_PyDyke_d2T.py (arquivo para calcular a derivada segunda dos dados)
-│   ├── 3_PyDyke_lims.py (arquivo para definir limites do modelo)
-│   ├── 4_PyDyke_calc_initial.py (arquivo para calcular a solução inicial do problema)
-│   ├── 5_PyDyke_inv.py (arquivo para executar o problema inverso)
-│   ├── 6_PyDyke_plot.py (arquivo para plotar os resultados do problema inverso)
-│   ├── 7_PyDyke_STD.py (arquivo para plotar calcular o desvio padrão das soluções)
-│   ├── 8_PyDyke_join_exit_std.py (arquivo para compilar soluções e probabilidades em tabela)
-│   ├── func_*.py (arquivos contendo funções para execução do problema inverso)
+│   │   └── (output files from the inverse problem)
+│   ├── 1_PyDyke_simple_filt.py (file for filtering data)
+│   ├── 2_PyDyke_d2T.py (file for calculating the second derivative of the data)
+│   ├── 3_PyDyke_lims.py (file for setting model limits)
+│   ├── 4_PyDyke_calc_initial.py (file for calculating the initial solution for the problem)
+│   ├── 5_PyDyke_inv.py (file for executing the inverse problem)
+│   ├── 6_PyDyke_plot.py (file for plotting the results of the inverse problem)
+│   ├── 7_PyDyke_STD.py (file for calculating and plotting the standard deviation of the solutions)
+│   ├── 8_PyDyke_join_exit_std.py (file for compiling solutions and probabilities into a table)
+│   ├── func_*.py (files containing functions for executing the inverse problem)
 ```
 
 
-## Especificações Técnicas Utilizadas
+## Technical Specifications
 
-Códigos originais e testes desenvolvidos em um notebook com as seguintes especificações:
+Original codes and tests were developed on a notebook with the following specifications:
 
-- **Processador:** Intel Core i5 de 12ª geração (3,3 GHz)
-- **Memória:** 16 GB de RAM DDR4 (3200 MHz)
-- **Sistema Operacional:** Ubuntu 24.04
+- **Processor:** 12th Generation Intel Core i5 (3.3 GHz)
+- **Memory:** 16 GB DDR4 RAM (3200 MHz)
+- **Operating System:** Ubuntu 24.04
 
-Os seguintes softwares e linguagens de programação foram utilizados:
+The following software and programming languages were used:
 
-### Ambiente Python
+### Python Environment
 - Python 3.7.16
 
-## Instruções de Uso
+## Instructions for Use
 
-O correto funcionamento dos programas dependem da instalação das bibliotecas e pacotes necessários. 
-Isso pode ser facilmente resolvido em sistemas baseados em Linux através de 4 etapas: 
-  1. Baixar o arquivo PyDyke_env.yml.
-  2. Criar um ambiente virtual com Conda, substituindo "novo_env" pelo nome do ambiente virtual a ser criado, utilizando o comando: ```conda env create --name novo_env -f PyDyke.yml```
+The proper functioning of the programs depends on the installation of the required libraries and packages.  
+This can be easily resolved in Linux-based systems through 4 steps: 
+  1. Download the file `PyDyke_env.yml`.
+  2. Create a virtual environment with Conda, replacing "novo_env" with the desired environment name, using the command: ```conda env create --name novo_env -f PyDyke.yml```
   3. Ativar o ambiente virtual, substituindo "nome_do_ambiente" pelo nome do ambiente virtual criado, com o comando: ```conda activate nome_do_ambiente```
 
 Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py". Baixe os arquivos em duas pastas separadas, uma para o problema direto e outra para o problema inverso. Dentro de cada uma dessas pastas crie as pasta "Input" e "Output" antes de executar os scripts pela primeira vez.
