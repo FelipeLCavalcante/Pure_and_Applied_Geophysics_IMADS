@@ -81,6 +81,6 @@ The proper functioning of the programs depends on the installation of the requir
 This can be easily resolved in Linux-based systems through 4 steps: 
   1. Download the file `PyDyke_env.yml`.
   2. Create a virtual environment with Conda, replacing "novo_env" with the desired environment name, using the command: ```conda env create --name novo_env -f PyDyke.yml```
-  3. Ativar o ambiente virtual, substituindo "nome_do_ambiente" pelo nome do ambiente virtual criado, com o comando: ```conda activate nome_do_ambiente```
+   3. Activate the virtual environment, replacing "nome_do_ambiente" with the name of the created environment, with the command: ```bash conda activate nome_do_ambiente```
 
 Com o ambiente virtual configurado, os códigos Python podem ser executados com comandos do tipo ```python 1_exemplo.py```, ou utilizando botões da sua IDE favorita. A ordem para a execução dos códigos segue a numeração arábica crescente do prefixo dos arquivos ".py". Baixe os arquivos em duas pastas separadas, uma para o problema direto e outra para o problema inverso. Dentro de cada uma dessas pastas crie as pasta "Input" e "Output" antes de executar os scripts pela primeira vez.
