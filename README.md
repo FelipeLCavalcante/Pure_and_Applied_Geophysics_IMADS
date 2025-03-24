@@ -38,6 +38,7 @@ Minerals_IMADS/
 ├── README.md                    # This file
 ├── LICENSE.md                   # License file
 ├── PyDyke_env.yml               # Virtual environment configuration file
+├── Data/ (real and synthetic data)
 ├── FWD/ (folder of the forward problem)
 │   ├── Input/
 │   │   └── (input files for running the forward problem)
