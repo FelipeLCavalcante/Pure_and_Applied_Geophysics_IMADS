@@ -34,7 +34,7 @@ This repository contains the files necessary to reproduce the results obtained i
 The organization of this repository follows the structure below:
 
 ```plaintext
-Minerals_IMADS/
+Pure_and_Applied_Geophysics_IMADS/
 ├── README.md                    # This file
 ├── LICENSE.md                   # License file
 ├── PyDyke_env.yml               # Virtual environment configuration file
